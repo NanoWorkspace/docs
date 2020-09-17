@@ -4,4 +4,4 @@
 
 # Nano (なの) Docs ![](https://raw.githubusercontent.com/CamilleAbella/Nano/master/assets/images/logo.png)
 
-Visite ths documentation API [here](https://camilleabella.github.io/NanoDocs) !
+Go to the API documentation [here](https://camilleabella.github.io/NanoDocs/dist/) !
