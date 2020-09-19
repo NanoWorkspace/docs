@@ -1,4 +1,4 @@
-![nano banner](https://raw.githubusercontent.com/CamilleAbella/Nano/master/assets/images/banner.jpg)
+![nano banner](https://raw.githubusercontent.com/NanoWorkspace/core/master/assets/images/banner.jpg)
 
 ![GitHub forks](https://img.shields.io/github/forks/NanoWorkspace/docs?color=black&logo=github&style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/NanoWorkspace/docs?color=black&logo=github&style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/NanoWorkspace/docs?color=black&logo=github&style=for-the-badge)
 
@@ -16,7 +16,7 @@ Give the [main repository](https://github.com/NanoWorkspace/core) a star to supp
 ### Main repositories
 
 - [Nano](https://github.com/NanoWorkspace/core) - bot core
-- [Nano Docs](https://github.com/NanoWorkspace/docs) - documentation
+- [Nano Docs](https://nanoworkspace.github.io/docs) - documentation
 - [Nano Template](https://github.com/NanoWorkspace/template) - bot template
 - [Nano Module Template](https://github.com/NanoWorkspace/module-template) - module template
 

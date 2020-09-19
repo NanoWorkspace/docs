@@ -1,4 +1,4 @@
-![nano banner](https://raw.githubusercontent.com/CamilleAbella/Nano/master/assets/images/banner.jpg)
+![nano banner](https://raw.githubusercontent.com/NanoWorkspace/core/master/assets/images/banner.jpg)
 
 ![GitHub forks](https://img.shields.io/github/forks/NanoWorkspace/docs?color=black&logo=github&style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/NanoWorkspace/docs?color=black&logo=github&style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/NanoWorkspace/docs?color=black&logo=github&style=for-the-badge)
 
