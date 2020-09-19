@@ -16,7 +16,7 @@ Give the [main repository](https://github.com/NanoWorkspace/core) a star to supp
 ### Main repositories
 
 - [Nano](https://github.com/NanoWorkspace/core) - bot core
-- [Nano Docs](https://nanoworkspace.github.io/docs) - documentation
+- [Nano Docs](https://github.com/NanoWorkspace/docs) - documentation
 - [Nano Template](https://github.com/NanoWorkspace/template) - bot template
 - [Nano Module Template](https://github.com/NanoWorkspace/module-template) - module template
 
