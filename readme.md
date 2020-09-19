@@ -4,10 +4,14 @@
 
 # Nano (なの) Docs ![](https://raw.githubusercontent.com/CamilleAbella/Nano/master/assets/images/logo.png)
 
-Welcome to the API [documentation](https://camilleabella.github.io/NanoDocs/).  
+Welcome to the API [documentation](https://NanoWorkspace.github.io/NanoDocs/).  
 Give the [main repository](https://github.com/CamilleAbella/Nano) a star to support it!
 
 ## Nano project - workspace
+
+### Full project
+
+- [Nano Workspace](https://github.com/NanoWorkspace)
 
 ### Main repositories
 
