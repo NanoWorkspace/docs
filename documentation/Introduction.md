@@ -1,3 +1,7 @@
+---
+permalink: /Introduction/
+---
+
 # Introduction
 
 ## What is Nano ?
