@@ -19,3 +19,4 @@ Give the [main repository](https://github.com/CamilleAbella/Nano) a star to supp
 ### Official modules
 
 - [Reaction Role](https://github.com/CamilleAbella/Nano-ReactionRole) - reaction-role system
+- [Auto Role](https://github.com/CamilleAbella/Nano-AutoRole) - auto-role system
