@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 permalink: pretty
+title: "Nano Docs"
+description: "Documentation of Nano framework"
+logo: "https://raw.githubusercontent.com/CamilleAbella/Nano/master/assets/images/logo.png"
