@@ -1,5 +1,5 @@
 ---
-permalink: /Tutorials/GettingStarted/
+permalink: /tuto/start/
 ---
 
 # Getting started

@@ -9,8 +9,8 @@ Give the [main repository](https://github.com/NanoWorkspace/core) a star to supp
 
 ## Tutorials
 
-- [Introduction](./Tutorials/Introduction)
-- [Getting started](./Tutorials/GettingStarted)
+- [Introduction](./tuto/intro)
+- [Getting started](./tuto/start)
 
 ## Documentation
 
