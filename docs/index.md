@@ -9,8 +9,8 @@ Give the [main repository](https://github.com/CamilleAbella/Nano) a star to supp
 
 ## Tutorials
 
-- [Introduction](/Tutorials/Introduction)
-- [Getting started](/Tutorials/GettingStarted)
+- [Introduction](./Tutorials/Introduction)
+- [Getting started](./Tutorials/GettingStarted)
 
 ## Documentation
 
