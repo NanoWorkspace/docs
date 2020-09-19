@@ -2,4 +2,4 @@ theme: jekyll-theme-tactile
 permalink: pretty
 title: "Nano (なの) Docs"
 description: "Documentation of Nano framework"
-logo: "https://raw.githubusercontent.com/CamilleAbella/Nano/master/assets/images/logo.png"
+logo: https://raw.githubusercontent.com/NanoWorkspace/core/master/assets/images/logo.png
