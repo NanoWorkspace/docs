@@ -1,5 +1,2 @@
 theme: jekyll-theme-cayman
 permalink: pretty
-relative_links:
-  enabled:     true
-  collections: false

@@ -11,11 +11,11 @@ Give the [main repository](https://github.com/CamilleAbella/Nano) a star to supp
 
 ### Main repositories
 
-- [Nano](https://github.com/CamilleAbella/Nano) - Nano bot core
-- [Nano Docs](https://github.com/CamilleAbella/NanoDocs) - Nano bot template
-- [Nano Template](https://github.com/CamilleAbella/NanoTemplate) - Nano bot template
-- [Nano Module Template](https://github.com/CamilleAbella/NanoModuleTemplate) - Nano bot module template
+- [Nano](https://github.com/CamilleAbella/Nano) - bot core
+- [Nano Docs](https://github.com/CamilleAbella/NanoDocs) - documentation
+- [Nano Template](https://github.com/CamilleAbella/NanoTemplate) - bot template
+- [Nano Module Template](https://github.com/CamilleAbella/NanoModuleTemplate) - module template
 
 ### Official modules
 
-- [Reaction Role](https://github.com/CamilleAbella/Nano-ReactionRole) - Reaction-role system
+- [Reaction Role](https://github.com/CamilleAbella/Nano-ReactionRole) - reaction-role system
