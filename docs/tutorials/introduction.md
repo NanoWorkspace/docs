@@ -1,5 +1,5 @@
 ---
-permalink: /Introduction/
+permalink: /Tutorials/Introduction/
 ---
 
 # Introduction

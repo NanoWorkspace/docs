@@ -1,3 +1,7 @@
+---
+permalink: /Home/
+---
+
 ![nano banner](https://raw.githubusercontent.com/CamilleAbella/Nano/master/assets/images/banner.jpg)
 
 ![GitHub forks](https://img.shields.io/github/forks/CamilleAbella/NanoDocs?color=black&logo=github&style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/CamilleAbella/NanoDocs?color=black&logo=github&style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/CamilleAbella/NanoDocs?color=black&logo=github&style=for-the-badge)
@@ -7,15 +11,12 @@
 Welcome to the API [documentation](https://camilleabella.github.io/NanoDocs/).  
 Give the [main repository](https://github.com/CamilleAbella/Nano) a star to support it!
 
-## Nano project - workspace
+## Tutorials
 
-### Main repositories
+- [Introduction](/tutorials/Introduction)
+- [Getting started](/tutorials/Getting_started)
 
-- [Nano](https://github.com/CamilleAbella/Nano) - Nano bot core
-- [Nano Docs](https://github.com/CamilleAbella/NanoDocs) - Nano bot template
-- [Nano Template](https://github.com/CamilleAbella/NanoTemplate) - Nano bot template
-- [Nano Module Template](https://github.com/CamilleAbella/NanoModuleTemplate) - Nano bot module template
+## Documentation
 
-### Official modules
-
-- [Reaction Role](https://github.com/CamilleAbella/Nano-ReactionRole) - Reaction-role system
+- one thing
+- another thing
