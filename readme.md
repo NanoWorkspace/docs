@@ -24,3 +24,4 @@ Give the [main repository](https://github.com/NanoWorkspace/core) a star to supp
 
 - [Reaction Role](https://github.com/NanoWorkspace/module_reaction-role) - reaction-role system
 - [Auto Role](https://github.com/NanoWorkspace/module_auto-role) - auto-role system
+- [Paginator](https://github.com/NanoWorkspace/module_paginator) - pagination system
